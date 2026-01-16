@@ -26,7 +26,10 @@
 See `correct_task1.py`
 
 > Note: The original AI-generated code is preserved in `task1.py`.
- 
+
+ ### Testing Considerations
+If you were to test this function, what areas or scenarios would you focus on, and why?
+
 
 ## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
@@ -66,6 +69,10 @@ See `correct_task2.py`
 
 > Note: The original AI-generated code is preserved in `task2.py`. 
 
+
+### Testing Considerations
+If you were to test this function, what areas or scenarios would you focus on, and why?
+
 ## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
 > This function counts the number of valid email addresses in the input list. It safely ignores invalid entries and handles empty input correctly.
@@ -103,6 +110,10 @@ See `correct_task2.py`
 See `correct_task3.py`
 
 > Note: The original AI-generated code is preserved in `task3.py`.
+
+### Testing Considerations
+If you were to test this function, what areas or scenarios would you focus on, and why?
+
 
 ## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
